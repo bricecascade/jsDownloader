@@ -1,0 +1,19 @@
+{
+    
+    "name"          : "jsDownloader",
+    
+    "version"       : "1.0.0",
+    
+    "contributors"  : [
+        {"name" : "ABLANCOURT Thomas"},
+        {"name" : "CASCADE Brice"}
+    ],
+    
+    "dependencies"  : {
+        "restify"       : "2.8.0",
+        "underscore"    : "1.6.0",
+        "backbone"      : "1.1.2",
+        "requirejs"     : "2.1.11"
+    }
+    
+}
